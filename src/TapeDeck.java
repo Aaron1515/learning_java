@@ -12,6 +12,7 @@ class TapeDeck {
 	}
 }
 
+// Class to test TapeDeck
 class TakeDeckTestDrive {
 	public static void main(String[] args) {
 		TapeDeck t = new TapeDeck();
