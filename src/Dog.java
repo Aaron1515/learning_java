@@ -1,3 +1,4 @@
+//Create Dog Class
 public class Dog {
 
 	int size;
